@@ -1,0 +1,23 @@
+Could not start watchman; falling back to NodeWatcher for file system events.
+Visit http://ember-cli.com/user-guide/#watchman for more info.
+Could not start watchman; falling back to NodeWatcher for file system events.
+Visit http://ember-cli.com/user-guide/#watchman for more info.
+Could not start watchman; falling back to NodeWatcher for file system events.
+Visit http://ember-cli.com/user-guide/#watchman for more info.
+Could not start watchman; falling back to NodeWatcher for file system events.
+Visit http://ember-cli.com/user-guide/#watchman for more info.
+Could not start watchman; falling back to NodeWatcher for file system events.
+Visit http://ember-cli.com/user-guide/#watchman for more info.
+
+Build successful - 8007ms.
+
+Slowest Trees                                 | Total               
+----------------------------------------------+---------------------
+Babel                                         | 3461ms              
+Babel                                         | 2253ms              
+Babel                                         | 507ms               
+
+Slowest Trees (cumulative)                    | Total (avg)         
+----------------------------------------------+---------------------
+Babel (12)                                    | 7083ms (590 ms)     
+
